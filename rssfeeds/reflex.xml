@@ -6,13 +6,13 @@
     <description>reflex.cz custom w/ photos A1</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2020 05:52:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 05:58:07 +0000</lastBuildDate>
     <item>
       <title>8 věcí, které jste nevěděli o Japonsku: Ženy samurajky i nejvíce prodejních automatů na světě</title>
       <link>https://www.reflex.cz/clanek/zajimavosti/102238/8-veci-ktere-jste-nevedeli-o-japonsku-zeny-samurajky-i-nejvice-prodejnich-automatu-na-svete.html</link>
       <description>8 věcí, které jste nevěděli o Japonsku: Ženy samurajky i nejvíce prodejních automatů na světě</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6471612-img-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6471612-img-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -20,7 +20,7 @@
       <link>https://www.reflex.cz/clanek/zajimavosti/102242/skandalu-jako-maku-rafaj-kontroluje-verejne-zakazky-vesele-dal.html</link>
       <description>Skandálů jako máku. Rafaj "kontroluje" veřejné zakázky vesele dál</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/5592633-img-petr-rafaj-uohs-v4.jpg?v=4"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/5592633-img-petr-rafaj-uohs-v4.jpg?v=4"/>
       </media:group>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <link>https://www.reflex.cz/clanek/fotogalerie/91823/pes-co-se-diva-jako-clovek-i-oskubane-kure-mutant-fotografie-zvirat-ktere-vas-zneklidni.html</link>
       <description>Pes, co se dívá jako člověk i oškubané kuře mutant: Fotografie zvířat, které vás zneklidní</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/5418215-img-flach-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/5418215-img-flach-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -36,7 +36,7 @@
       <link>https://www.reflex.cz/clanek/prostor-x/102230/zaoralek-nesnasim-ty-co-vstavaji-ve-ctvrt-na-pet-meli-by-se-vyspat-lidem-chci-pomoct-ale-stat-to-komplikuje.html</link>
       <description>Zaorálek: Nesnáším ty, co vstávají ve čtvrt na pět, měli by se vyspat. Lidem chci pomoct, ale stát to komplikuje</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6470210-img-prostor-x-video-zaoralek-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6470210-img-prostor-x-video-zaoralek-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -44,7 +44,7 @@
       <link>https://www.reflex.cz/clanek/zpravy/102245/cesky-mladik-byl-sefem-drogoveho-virtualniho-trziste-policie-ho-zatkla-soudit-ho-budou-v-dansku.html</link>
       <description>Český mladík byl šéfem drogového virtuálního tržiště. Policie ho zatkla, soudit ho budou v Dánsku</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6353094-img-praha-kobylisy-zasahovka-zasahova-jednotka-famfulikova-psychiatricka-lecebna-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6353094-img-praha-kobylisy-zasahovka-zasahova-jednotka-famfulikova-psychiatricka-lecebna-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -52,7 +52,7 @@
       <link>https://www.reflex.cz/clanek/veda/102247/deti-a-covid-19-nenapadni-prenaseci-obavaneho-viru-predstavuji-obrovske-riziko.html</link>
       <description>Děti a covid-19: Nenápadní přenašeči obávaného viru  představují obrovské riziko</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6243250-img-koronavirus-potraviny-rouska-dite-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6243250-img-koronavirus-potraviny-rouska-dite-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -60,7 +60,7 @@
       <link>https://www.reflex.cz/clanek/komentare/102243/s-cim-take-souhlasil-premier-babis-v-bruselu-nove-evropske-dane-jiz-od-ledna-2021.html</link>
       <description>S čím také souhlasil premiér Babiš v Bruselu? Nové evropské daně již od ledna 2021</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6453382-img-andrej-babis-summit-brusel-evropska-unie-koronavirus-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6453382-img-andrej-babis-summit-brusel-evropska-unie-koronavirus-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <link>https://www.reflex.cz/clanek/reportaze/102246/nezpochybnitelne-dobro-zosobnene-zlo-a-my-vsichni-mezi-tim-soud-s-vrahy-novinare-kuciaka-speje-ke-konci.html</link>
       <description>Nezpochybnitelné dobro, zosobněné zlo a my všichni mezi tím. Soud s vrahy novináře Kuciaka spěje ke konci</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6472883-img-jan-kuciak-marian-kocner-vrah-slovensko-v2.jpg"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6472883-img-jan-kuciak-marian-kocner-vrah-slovensko-v2.jpg?v=2"/>
       </media:group>
     </item>
     <item>
@@ -76,7 +76,7 @@
       <link>https://www.reflex.cz/clanek/zpravy/102252/polaci-ukradli-ze-hrbitova-sochu-ruskeho-marsala-a-usekli-mu-hlavu-rusko-zada-vysetreni.html</link>
       <description>Poláci ukradli ze hřbitova sochu ruského maršála a usekli mu hlavu. Rusko žádá vyšetření</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6472947-img-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6472947-img-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -84,7 +84,7 @@
       <link>https://www.reflex.cz/clanek/lide-a-zeme-asie/80653/siquijor-magicky-ostrov-plny-kouzelniku-na-ktery-se-filipinci-boji-jezdit.html</link>
       <description>Siquijor: Magický ostrov plný kouzelníků, na který se Filipínci bojí jezdit</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/3558083-img-ostrov-siquijor-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/3558083-img-ostrov-siquijor-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -92,7 +92,7 @@
       <link>https://www.reflex.cz/clanek/zpravy/102248/ploty-ve-jmenu-ochrany-prirody-v-krkonosich-rozsiri-zabrany-proti-neukaznenym-turistum.html</link>
       <description>Ploty ve jménu ochrany přírody. V Krkonoších rozšíří zábrany proti neukázněným turistům</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6472750-img-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6472750-img-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -100,7 +100,7 @@
       <link>https://www.reflex.cz/clanek/anketa/102194/jedeme-po-skluzavce-zadluzeni-chaoticka-vlada-a-dnesni-dovolenkari-coby-zitrejsi-nezamestnani.html</link>
       <description>Jedeme po skluzavce: Zadlužení, chaotická vláda a dnešní dovolenkáři coby zítřejší nezaměstnaní</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6471913-img-chorvatsko-koronavirus-plaze-dovolena-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6471913-img-chorvatsko-koronavirus-plaze-dovolena-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <link>https://www.reflex.cz/clanek/komentare/102193/babisuv-boj-s-koronavirem-namisto-systemu-nabizi-premier-osobni-nasazeni-a-nedelni-youtuberska-videa.html</link>
       <description>Babišův boj s koronavirem: Namísto systému nabízí premiér osobní nasazení a nedělní youtuberská videa</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6467632-img-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6467632-img-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -116,7 +116,7 @@
       <link>https://www.reflex.cz/clanek/lide-a-zeme-asie/80747/objevte-krasy-starobyleho-iranu-zeme-s-velkym-kulturnim-bohatstvim-se-otevira-turistum.html</link>
       <description>Objevte krásy starobylého Íránu. Země s velkým kulturním bohatstvím se otevírá turistům</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/3562121-img-iran-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/3562121-img-iran-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -124,7 +124,7 @@
       <link>https://www.reflex.cz/clanek/komentare/102244/kauza-chramu-hagia-sofia-neni-jen-o-sporu-mezi-muslimy-a-krestany-rozkryva-i-spory-ve-vnimani-islamu.html</link>
       <description>Kauza chrámu Hagia Sofia není jen o sporu mezi muslimy a křesťany. Rozkrývá i spory ve vnímání islámu</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6438192-img-turecko-chram-mesita-hagia-sofia-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6438192-img-turecko-chram-mesita-hagia-sofia-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -132,7 +132,7 @@
       <link>https://www.reflex.cz/clanek/fotogalerie/100022/william-mortensen-fotograficky-antikrist-ktereho-chteli-kolegove-vymazat-z-historie.html</link>
       <description>William Mortensen: Fotografický antikrist, kterého chtěli kolegové vymazat z historie</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6216202-img-william-mortensen-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6216202-img-william-mortensen-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -140,7 +140,7 @@
       <link>https://www.reflex.cz/clanek/zajimavosti/102256/konecne-pozitivni-zpravy-den-pratelstvi-oslavila-i-zviratka-mala-i-ta-opravdu-velka.html</link>
       <description>Konečně pozitivní zprávy: Den přátelství oslavila i zvířátka. Malá i ta opravdu velká</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6474071-img-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6474071-img-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <link>https://www.reflex.cz/clanek/rozhovory/102208/jan-valo-v-iraku-jsme-postupovali-v-prvnim-sledu-pred-verejnosti-se-o-tom-mlcelo-nechapu-proc.html</link>
       <description>Ján Valo: V Iráku jsme postupovali v prvním sledu, před veřejností se o tom mlčelo. Nechápu proč?!</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6468370-img-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6468370-img-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -156,7 +156,7 @@
       <link>https://www.reflex.cz/clanek/zpravy/102257/jablko-s-cenou-zlata-apple-je-nejvetsi-firmou-na-svete-podle-trzni-kapitalizace.html</link>
       <description>Jablko s cenou zlata. Apple je největší firmou na světě podle tržní kapitalizace </description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6194095-img-apple-v1.jpg?v=1"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6194095-img-apple-v1.jpg?v=1"/>
       </media:group>
     </item>
     <item>
@@ -164,7 +164,7 @@
       <link>https://www.reflex.cz/clanek/kultura/102237/japonsti-lovci-demonu-na-klasterni-exkurzi.html</link>
       <description>Japonští lovci démonů na klášterní exkurzi</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6471568-img-modra-crew-okko-cyklus-zeme-hub-v2.jpg"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6471568-img-modra-crew-okko-cyklus-zeme-hub-v2.jpg?v=2"/>
       </media:group>
     </item>
     <item>
@@ -172,7 +172,7 @@
       <link>https://www.reflex.cz/clanek/zajimavosti/102261/temer-vsechny-ceske-matky-chapou-kojeni-jako-prospesne-informace-hledaji-na-internetu-ukazal-pruzkum.html</link>
       <description>Téměř všechny české matky chápou kojení jako prospěšné, informace hledají na internetu, ukázal průzkum</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6021438-img-kojeni-dite-matka-materstvi-v0.jpg?v=0"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/6021438-img-kojeni-dite-matka-materstvi-v0.jpg?v=0"/>
       </media:group>
     </item>
     <item>
@@ -180,7 +180,7 @@
       <link>https://www.reflex.cz/clanek/historie/58085/varsavske-povstani-prokazalo-touhu-polaku-po-svobode-ale-vyzadalo-si-obrovske-obeti-a-zkazu-mesta.html</link>
       <description>Varšavské povstání prokázalo touhu Poláků po svobodě, ale vyžádalo si obrovské oběti a zkázu města</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/2792570-img-polsko-valka-povstani-v2.jpg"/>
+        <media:content url="https://img.cncenter.cz/img/3/article/2792570-img-polsko-valka-povstani-v2.jpg?v=2"/>
       </media:group>
     </item>
   </channel>
