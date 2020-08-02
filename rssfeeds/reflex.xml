@@ -6,7 +6,7 @@
     <description>reflex.cz custom w/ photoszzzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2020 05:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 05:52:02 +0000</lastBuildDate>
     <item>
       <title>8 věcí, které jste nevěděli o Japonsku: Ženy samurajky i nejvíce prodejních automatů na světě</title>
       <link>https://www.reflex.cz/clanek/zajimavosti/102238/8-veci-ktere-jste-nevedeli-o-japonsku-zeny-samurajky-i-nejvice-prodejnich-automatu-na-svete.html</link>
@@ -68,7 +68,7 @@
       <link>https://www.reflex.cz/clanek/reportaze/102246/nezpochybnitelne-dobro-zosobnene-zlo-a-my-vsichni-mezi-tim-soud-s-vrahy-novinare-kuciaka-speje-ke-konci.html</link>
       <description>Nezpochybnitelné dobro, zosobněné zlo a my všichni mezi tím. Soud s vrahy novináře Kuciaka spěje ke konci</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6472883-img-jan-kuciak-marian-kocner-vrah-slovensko-v2.jpg?v=2"/>
+        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6472883-img-jan-kuciak-marian-kocner-vrah-slovensko-v2.jpg"/>
       </media:group>
     </item>
     <item>
@@ -164,7 +164,7 @@
       <link>https://www.reflex.cz/clanek/kultura/102237/japonsti-lovci-demonu-na-klasterni-exkurzi.html</link>
       <description>Japonští lovci démonů na klášterní exkurzi</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6471568-img-modra-crew-okko-cyklus-zeme-hub-v2.jpg?v=2"/>
+        <media:thumbnail url="https://img.cncenter.cz/img/3/article/6471568-img-modra-crew-okko-cyklus-zeme-hub-v2.jpg"/>
       </media:group>
     </item>
     <item>
@@ -180,7 +180,7 @@
       <link>https://www.reflex.cz/clanek/historie/58085/varsavske-povstani-prokazalo-touhu-polaku-po-svobode-ale-vyzadalo-si-obrovske-obeti-a-zkazu-mesta.html</link>
       <description>Varšavské povstání prokázalo touhu Poláků po svobodě, ale vyžádalo si obrovské oběti a zkázu města</description>
       <media:group>
-        <media:thumbnail url="https://img.cncenter.cz/img/3/article/2792570-img-polsko-valka-povstani-v2.jpg?v=2"/>
+        <media:thumbnail url="https://img.cncenter.cz/img/3/article/2792570-img-polsko-valka-povstani-v2.jpg"/>
       </media:group>
     </item>
   </channel>
